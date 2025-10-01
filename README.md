@@ -1,4 +1,5 @@
 Skin Lesion Classification with ResNet50 & ViT
+
 This project focuses on classifying skin lesion images from the HAM10000 dataset using deep learning models. So far, ResNet50 and Vision Transformer (ViT) have been trained and evaluated, including interpretability (XAI) analysis and report generation.
 
 📌 Upcoming Enhancements
